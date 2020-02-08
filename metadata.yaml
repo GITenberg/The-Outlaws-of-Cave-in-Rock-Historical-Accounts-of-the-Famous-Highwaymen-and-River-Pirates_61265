@@ -1,0 +1,36 @@
+_repo: The-Outlaws-of-Cave-in-Rock-Historical-Accounts-of-the-Famous-Highwaymen-and-River-Pirates_61265
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rothert, Otto A.
+    alias: Rothert, Otto Arthur
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '51330'
+    url: http://www.gutenberg.org/2009/agents/51330
+description: ''
+gutenberg_issued: '2020-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61265'
+  lccn: '24002486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'River life -- Ohio River -- History'
+- !lcsh 'Brigands and robbers -- Natchez Trace -- History'
+- !lcsh 'Brigands and robbers -- Ohio River Valley -- History'
+- !lcc 'F516'
+- !lcsh 'Natchez Trace -- History'
+- !lcsh 'Brigands and robbers -- Mississippi River Valley -- History'
+- !lcsh 'Cave in Rock (Ill.) -- History'
+- !lcsh 'Mississippi River Valley -- History'
+- !lcsh 'River life -- Mississippi River -- History'
+- !lcsh 'Ohio River Valley -- History'
+- GITenberg
+title: 'The Outlaws of Cave-in-Rock
+
+  Historical Accounts of the Famous Highwaymen and River Pirates'
+url: http://www.gutenberg.org/ebooks/61265
